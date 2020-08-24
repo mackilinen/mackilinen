@@ -1,3 +1,7 @@
+[![GitHub followers](https://img.shields.io/github/followers/mackilinen?color=blue&label=GitHub&logo=github&style=for-the-badge)](https://github.com/mackilinen)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mackilinen?color=blue&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/mackilinen)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn--_.svg?color=blue&label=LinkedIn&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mackilinen)
+
 ### Hi there 👋
 
 <!--
