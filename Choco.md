@@ -1,7 +1,5 @@
 # Settings
 
-Add vscode settings and extension list to git
-
 Add google cloud sdk components list (kubernetes)
 
 DevContainer for rust development?
