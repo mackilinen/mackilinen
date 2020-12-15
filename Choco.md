@@ -2,8 +2,6 @@
 
 Add vscode settings and extension list to git
 
-Add windows terminal settings to git
-
 Add google cloud sdk components list (kubernetes)
 
 DevContainer for rust development?
@@ -27,3 +25,7 @@ Not on choco:
 ## Powershell
 
 `code $PROFILE`
+
+## Windows Terminal
+
+`ctrl + ,`
