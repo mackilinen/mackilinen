@@ -1,12 +1,10 @@
-# Choco
+# Settings
 
-`choco install choco.config`
+Add vscode settings and extension list to git
 
-Not on choco:
+Add windows terminal settings to git
 
-- Battle.net (Games)
-- Cooler Master (Keyboard)
-- NetExtender (VPN)
+Add google cloud sdk components list (kubernetes)
 
 DevContainer for rust development?
 
@@ -16,8 +14,16 @@ mssql and mysql on docker containers?
 
 <https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-ver15&pivots=cs1-powershell>
 
-Add vscode settings and extension list to git
+## Choco
 
-Add windows terminal settings to git
+`choco install choco.config`
 
-Add google cloud sdk components list (kubernetes)
+Not on choco:
+
+- Battle.net (Games)
+- Cooler Master (Keyboard)
+- NetExtender (VPN)
+
+## Powershell
+
+`code $PROFILE`
