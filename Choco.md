@@ -16,8 +16,6 @@ mssql and mysql on docker containers?
 
 <https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-ver15&pivots=cs1-powershell>
 
-Add Powershell profile to git
-
 Add vscode settings and extension list to git
 
 Add windows terminal settings to git
