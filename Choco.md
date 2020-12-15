@@ -1,7 +1,5 @@
 # Settings
 
-Add google cloud sdk components list (kubernetes)
-
 DevContainer for rust development?
 
 mssql and mysql on docker containers?
@@ -27,3 +25,9 @@ Not on choco:
 ## Windows Terminal
 
 `ctrl + ,`
+
+## Google Cloud SDK
+
+gcloud from choco.
+
+`gcloud components install kubectl`
