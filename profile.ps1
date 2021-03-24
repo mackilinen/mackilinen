@@ -24,3 +24,6 @@ Set-Alias dir Get-ChildItemColorFormatWide -Option AllScope
 #utility functions
 
 function repos { set-location "C:\Repos" }
+function .. { set-location ".." }
+function ... { set-location "..\.." }
+function .... { set-location "..\..\.." }
