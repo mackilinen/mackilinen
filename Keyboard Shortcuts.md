@@ -20,6 +20,7 @@ Compare files: `code -d <file> <file>`
     Ctrl + Shift + §        : Go To Bracket
     Ctrl + '                : Toggle Line Comment
     Shift + Alt + ->        : Expand Select
+    Ctrl + Alt + ->         : Move Editor To Next Group
     Ctrl + W                : Close All Tabs
     F8                      : Next Warning/Error
     Ctrl + Shift + O        : Go To Symbol
