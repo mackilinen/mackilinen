@@ -23,7 +23,8 @@
         },
         {
             "colorScheme": "Dracula",
-            "fontFace": "Cascadia Mono PL",
+            // "fontFace": "Cascadia Mono PL",
+            "fontFace": "CaskaydiaCove NF",
             "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
             "hidden": false,
             "name": "PowerShell Core",
