@@ -8,13 +8,23 @@ mssql and mysql on docker containers?
 
 <https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-docker-container-deployment?view=sql-server-ver15&pivots=cs1-powershell>
 
-## Choco
+## Choco & WinGet
 
 `choco install choco.config`
 
 Not on choco:
 
 - Battle.net (Games)
+
+Not on winget:
+
+- nvm (use node instead)
+- oh-my-posh
+- poshgit
+- mkcert
+
+Not on choco & winget:
+
 - Cooler Master (Keyboard)
 - NetExtender (VPN)
 
@@ -27,7 +37,5 @@ Not on choco:
 `ctrl + ,`
 
 ## Google Cloud SDK
-
-gcloud from choco.
 
 `gcloud components install kubectl`
