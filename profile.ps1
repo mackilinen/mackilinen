@@ -5,7 +5,6 @@ $global:DefaultUser = [System.Environment]::UserName
 Import-Module PSReadLine
 Import-Module posh-git
 Import-Module oh-my-posh
-Import-Module Terminal-Icons
 
 Set-PoshPrompt -Theme paradox
 
