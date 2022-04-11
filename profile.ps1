@@ -1,16 +1,13 @@
-#Set Default user for oh-my-posh to avoid username in prompt
-$global:DefaultUser = [System.Environment]::UserName
-
 #Import required modules
 Import-Module PSReadLine
 Import-Module posh-git
 Import-Module oh-my-posh
 
-Set-PoshPrompt -Theme paradox
+Set-PoshPrompt -Theme powerlevel10k_classic
 
 #utility functions
 
-function repos { set-location "C:\Repos" }
+function repos { set-location "C:\repos" }
 function .. { set-location ".." }
 function ... { set-location "..\.." }
 function .... { set-location "..\..\.." }
