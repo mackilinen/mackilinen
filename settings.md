@@ -44,8 +44,6 @@ Install-Module PSReadLine -Force
 Install-Module posh-git
 Install-Module oh-my-posh
 
-oh-my-posh theme powerlevel10k_classic with git from theme powerlevel10k_rainbow
-
 `code $PROFILE`
 
 ## Windows Terminal
