@@ -1,9 +1,5 @@
 # Settings
 
-DevContainer for rust development?
-
-<https://code.visualstudio.com/docs/remote/create-dev-container>
-
 ## Get mssql server up and running as a docker container
 
 ### mssql
