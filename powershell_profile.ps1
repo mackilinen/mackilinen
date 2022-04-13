@@ -1,7 +1,9 @@
 #Import required modules
 Import-Module PSReadLine
-Import-Module oh-my-posh
+Set-PSReadLineOption -PredictionSource HistoryAndPlugin
+Set-PSReadLineOption -PredictionViewStyle ListView
 
+Import-Module oh-my-posh
 Set-PoshPrompt -Theme probua.minimal
 
 #utility functions
