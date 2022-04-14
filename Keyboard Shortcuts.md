@@ -32,6 +32,7 @@ Compare files: `code -d <file> <file>`
     Windows + E             : File Explorer
     Shift + F10             : Opens Shortcut Menu (mouse right-click)
     Windows + Shift + S     : Opens Snipping Tool
+    Windows + Ctrl + O      : Opens Digital Keyboard
 
 ## Web Browser
 
