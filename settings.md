@@ -29,6 +29,8 @@ CascadiaCode
 
 `choco install choco.config`
 
+`winget_install.ps1`
+
 Not on choco & winget:
 
 - Cooler Master (Keyboard)
