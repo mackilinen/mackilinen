@@ -1,5 +1,4 @@
-# winget install -e --id 7zip.7zip
-# winget install -e --id Microsoft.VisualStudio.Community
+winget install -e --id 7zip.7zip
 winget install -e --id Amazon.Games
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
 winget install -e --id Discord.Discord
@@ -28,7 +27,7 @@ winget install -e --id Postman.Postman
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id SonicWALL.NetExtender
 winget install -e --id Spotify.Spotify
-winget install -e --id SteelSeries.SteelSeriesEngine
+winget install -e --id SteelSeries.GG
 winget install -e --id TablePlus.TablePlus
 winget install -e --id Ubisoft.Connect
 winget install -e --id Valve.Steam
