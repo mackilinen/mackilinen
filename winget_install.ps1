@@ -10,6 +10,7 @@ winget install -e --id Git.Git
 winget install -e --id GOG.Galaxy
 winget install -e --id Google.Chrome
 winget install -e --id Google.CloudSDK
+winget install -e --id JanDeDobbeleer.OhMyPosh
 winget install -e --id LINQPad.LINQPad.7
 winget install -e --id LogMeIn.LastPass
 winget install -e --id Microsoft.AzureDataStudio

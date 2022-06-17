@@ -37,7 +37,6 @@ Not on choco & winget:
 ## Powershell
 
 Install-Module PSReadLine -Force
-Install-Module oh-my-posh
 
 `code $PROFILE`
 

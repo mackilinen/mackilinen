@@ -3,8 +3,7 @@ Import-Module PSReadLine
 Set-PSReadLineOption -PredictionSource HistoryAndPlugin
 Set-PSReadLineOption -PredictionViewStyle ListView
 
-Import-Module oh-my-posh
-Set-PoshPrompt -Theme probua.minimal
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\probua.minimal.omp.json" | Invoke-Expression
 
 #utility functions
 
