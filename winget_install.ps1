@@ -20,7 +20,6 @@ winget install -e --id Microsoft.dotnetUninstallTool
 winget install -e --id Microsoft.PowerShell
 winget install -e --id Microsoft.PowerToys
 winget install -e --id Microsoft.RemoteDesktopClient
-winget install -e --id Microsoft.SQLServerManagementStudio
 winget install -e --id Microsoft.Teams
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Microsoft.WindowsPCHealthCheck
