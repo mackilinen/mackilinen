@@ -36,4 +36,5 @@ winget install -e --id SteelSeries.GG
 winget install -e --id TablePlus.TablePlus
 winget install -e --id Ubisoft.Connect
 winget install -e --id Valve.Steam
+winget install -e --id VideoLAN.VLC
 winget install -e --id Yarn.Yarn
