@@ -26,6 +26,7 @@ winget install -e --id Microsoft.WindowsPCHealthCheck
 winget install -e --id Microsoft.WindowsTerminal
 winget install -e --id Mozilla.Firefox.DeveloperEdition
 winget install -e --id NickeManarin.ScreenToGif
+winget install -e --id Notion.Notion
 winget install -e --id Nvidia.GeForceExperience
 winget install -e --id OpenJS.NodeJS
 winget install -e --id Postman.Postman
