@@ -15,7 +15,6 @@ docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Admin123'
  -d mcr.microsoft.com/mssql/server:2019-latest
 ```
 
-
 ### mysql
 
 ```bash
@@ -32,13 +31,11 @@ docker run -e 'MYSQL_ROOT_HOST=%' -e 'MYSQL_ROOT_PASSWORD=Admin123'
 CascadiaCode
 <https://www.nerdfonts.com/font-downloads>
 
-## Choco & WinGet
-
-`choco install choco.config`
+## WinGet
 
 `winget_install.ps1`
 
-Not on choco & winget:
+Not on winget:
 
 - Cooler Master (Keyboard)
 - Battle.net (Games)
