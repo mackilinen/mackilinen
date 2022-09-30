@@ -15,8 +15,10 @@ winget install -e --id LINQPad.LINQPad.7
 winget install -e --id LogMeIn.LastPass
 winget install -e --id Microsoft.AzureDataStudio
 winget install -e --id Microsoft.DotNet.SDK.6
+winget install -e --id Microsoft.DotNet.SDK.5
 winget install -e --id Microsoft.dotNetFramework
 winget install -e --id Microsoft.dotnetUninstallTool
+# winget install -e --id Microsoft.Office
 winget install -e --id Microsoft.PowerShell
 winget install -e --id Microsoft.PowerToys
 winget install -e --id Microsoft.RemoteDesktopClient
