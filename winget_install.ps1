@@ -1,6 +1,7 @@
 winget install -e --id 7zip.7zip
 winget install -e --id Amazon.Games
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
+winget install -e --id Bitwarden.Bitwarden
 # winget install -e --id CoreyButler.NVMforWindows - I haven't needed it so far
 winget install -e --id Discord.Discord
 winget install -e --id Docker.DockerDesktop
