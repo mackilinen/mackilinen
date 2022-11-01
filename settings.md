@@ -62,6 +62,12 @@ dotnet tool install dotnet-format -g
 dotnet tool install dotnet-outdated-tool -g
 ```
 
+## Node Tools
+
+```bash
+npm install -g npm-check-updates
+```
+
 ## Stadia
 
 Chrome app
