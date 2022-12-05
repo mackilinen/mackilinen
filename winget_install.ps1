@@ -3,6 +3,7 @@ winget install -e --id Amazon.Games
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
 winget install -e --id Bitwarden.Bitwarden
 # winget install -e --id CoreyButler.NVMforWindows - I haven't needed it so far
+winget install -e --id code52.Carnac
 winget install -e --id Discord.Discord
 winget install -e --id Docker.DockerDesktop
 winget install -e --id ElectronicArts.EADesktop
@@ -15,8 +16,9 @@ winget install -e --id JanDeDobbeleer.OhMyPosh
 winget install -e --id LINQPad.LINQPad.7
 winget install -e --id LogMeIn.LastPass
 winget install -e --id Microsoft.AzureDataStudio
-winget install -e --id Microsoft.DotNet.SDK.6
 winget install -e --id Microsoft.DotNet.SDK.5
+winget install -e --id Microsoft.DotNet.SDK.6
+winget install -e --id Microsoft.DotNet.SDK.7
 winget install -e --id Microsoft.dotNetFramework
 winget install -e --id Microsoft.dotnetUninstallTool
 # winget install -e --id Microsoft.Office
