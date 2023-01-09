@@ -67,7 +67,3 @@ dotnet tool install dotnet-outdated-tool -g
 ```bash
 npm install -g npm-check-updates
 ```
-
-## Stadia
-
-Chrome app
