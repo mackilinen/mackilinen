@@ -58,7 +58,6 @@ Install-Module PSReadLine -Force
 
 ```bash
 dotnet tool install databoss -g
-dotnet tool install dotnet-format -g
 dotnet tool install dotnet-outdated-tool -g
 ```
 
