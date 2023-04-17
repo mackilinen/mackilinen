@@ -52,7 +52,10 @@ Install-Module PSReadLine -Force
 
 ## Google Cloud SDK
 
-`gcloud components install kubectl`
+```bash
+gcloud components install kubectl
+gcloud components install gke-gcloud-auth-plugin
+```
 
 ## Dotnet tools
 
