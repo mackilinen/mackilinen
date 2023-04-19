@@ -44,3 +44,5 @@ winget install -e --id Ubisoft.Connect
 winget install -e --id Valve.Steam
 winget install -e --id VideoLAN.VLC
 winget install -e --id Yarn.Yarn
+
+winget install -e --name "Alpine WSL"

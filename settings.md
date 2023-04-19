@@ -50,6 +50,15 @@ Install-Module PSReadLine -Force
 
 `ctrl + ,`
 
+## WSL
+
+Alpine: `winget install -e --name "Alpine WSL"` (this is in the winget_install.ps1)
+
+- sudo: <https://jlelse.blog/dev/using-windows-3>
+- docker dependency: <https://github.com/sgerrand/alpine-pkg-glibc>
+- powershell: <https://learn.microsoft.com/en-us/powershell/scripting/install/install-alpine?view=powershell-7.3>
+- oh-my-posh: <https://ohmyposh.dev/docs/installation/linux>
+
 ## Google Cloud SDK
 
 ```bash
