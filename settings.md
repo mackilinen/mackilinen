@@ -42,8 +42,6 @@ Not on winget:
 
 ## Powershell
 
-Install-Module PSReadLine -Force
-
 `code $PROFILE`
 
 ## Windows Terminal
