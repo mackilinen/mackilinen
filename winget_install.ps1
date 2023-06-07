@@ -28,6 +28,7 @@ winget install -e --id NickeManarin.ScreenToGif
 winget install -e --id Notion.Notion
 winget install -e --id Nvidia.GeForceExperience
 winget install -e --id OpenJS.NodeJS
+winget install -e --id Piriform.CCleaner
 winget install -e --id Postman.Postman
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id SonicWALL.NetExtender
@@ -38,6 +39,7 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id Yarn.Yarn
 
 winget install -e --name "Alpine WSL"
+
 # Personal
 winget install -e --id Amazon.Games
 winget install -e --id Discord.Discord
