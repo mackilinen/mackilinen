@@ -1,6 +1,7 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
+    "startupActions": "sp -V; nt -p Alpine; ft -t 0; mf left",
     "actions": [
         {
             "command": {
@@ -71,7 +72,8 @@
     "profiles": {
         "defaults": {
             "colorScheme": "One Half Dark",
-            "cursorShape": "underscore"
+            "cursorShape": "underscore",
+            "useAtlasEngine": true
         },
         "list": [
             {
@@ -314,5 +316,7 @@
             "white": "#C0C0C0",
             "yellow": "#808000"
         }
-    ]
+    ],
+    "theme": "system",
+    "themes": []
 }
