@@ -39,6 +39,7 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id Yarn.Yarn
 
 winget install -e --name "Alpine WSL"
+winget install -e --id Debian.Debian
 
 # Personal
 winget install -e --id Amazon.Games

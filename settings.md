@@ -50,7 +50,15 @@ Not on winget:
 
 ## WSL
 
-Alpine: `winget install -e --name "Alpine WSL"` (this is in the winget_install.ps1)
+### Debian
+
+`winget install -e --id Debian.Debian` (this is in the winget_install.ps1)
+
+`wsl --install -d Debian`
+
+### Alpine
+
+`winget install -e --name "Alpine WSL"` (this is in the winget_install.ps1)
 
 - sudo: <https://jlelse.blog/dev/using-windows-3>
 - docker dependency: <https://github.com/sgerrand/alpine-pkg-glibc>
