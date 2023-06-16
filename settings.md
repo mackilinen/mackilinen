@@ -56,6 +56,15 @@ Not on winget:
 
 `wsl --install -d Debian`
 
+- git: <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-git>
+  - `sudo apt install git`
+- curl:
+  - `sudo apt install curl`
+- powershell: <https://learn.microsoft.com/en-us/powershell/scripting/install/install-debian?view=powershell-7.3#installation-on-debian-11-via-package-repository>
+- oh-my-posh: <https://ohmyposh.dev/docs/installation/linux>
+  - `sudo apt install unzip`
+  - `sudo curl -s https://ohmyposh.dev/install.sh | sudo bash -s`
+
 ### Alpine
 
 `winget install -e --name "Alpine WSL"` (this is in the winget_install.ps1)
