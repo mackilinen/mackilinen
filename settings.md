@@ -54,7 +54,7 @@ Not on winget:
 
 `winget install -e --id Debian.Debian` (this is in the winget_install.ps1)
 
-`wsl --install -d Debian`
+If the installation from winget is not recognized run `wsl --install -d Debian`
 
 - git: <https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-git>
   - `sudo apt install git`
@@ -64,15 +64,6 @@ Not on winget:
 - oh-my-posh: <https://ohmyposh.dev/docs/installation/linux>
   - `sudo apt install unzip`
   - `sudo curl -s https://ohmyposh.dev/install.sh | sudo bash -s`
-
-### Alpine
-
-`winget install -e --name "Alpine WSL"` (this is in the winget_install.ps1)
-
-- sudo: <https://jlelse.blog/dev/using-windows-3>
-- docker dependency: <https://github.com/sgerrand/alpine-pkg-glibc>
-- powershell: <https://learn.microsoft.com/en-us/powershell/scripting/install/install-alpine?view=powershell-7.3>
-- oh-my-posh: <https://ohmyposh.dev/docs/installation/linux>
 
 ## Google Cloud SDK
 
@@ -91,5 +82,5 @@ dotnet tool install dotnet-outdated-tool -g
 ## Node Tools
 
 ```bash
-npm install -g npm-check-updates
+npm install npm-check-updates -g
 ```

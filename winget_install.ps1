@@ -2,6 +2,7 @@ winget install -e --id 7zip.7zip
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk
 winget install -e --id Bitwarden.Bitwarden
 winget install -e --id code52.Carnac
+winget install -e --id Debian.Debian
 winget install -e --id DisplayLink.GraphicsDriver
 winget install -e --id Docker.DockerDesktop
 winget install -e --id Git.Git
@@ -36,9 +37,6 @@ winget install -e --id Spotify.Spotify
 winget install -e --id SteelSeries.GG
 winget install -e --id VideoLAN.VLC
 winget install -e --id Yarn.Yarn
-
-winget install -e --name "Alpine WSL"
-winget install -e --id Debian.Debian
 
 # Personal
 winget install -e --id Amazon.Games
